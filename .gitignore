@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Local configuration
+local.properties
+*.local
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Signing
+*.jks
+*.keystore
+release/
+
+# Logs
+*.log
+
+# Test outputs
+/test-results/
+/coverage/
+
+# Xcode (generated from project.yml)
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/

@@ -1,0 +1,51 @@
+Sigma Delta License
+
+Copyright (c) 2025 Sigma Delta
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. ATTRIBUTION REQUIREMENT
+
+   Any application, product, or service that incorporates the Software must
+   include a visible attribution to "Sigma Delta" within the application itself.
+   This attribution must be reasonably discoverable by end users (e.g., in an
+   "About" screen, credits section, settings page, or similar location).
+
+   Acceptable attribution formats include:
+   - "Powered by SimpleK by Sigma Delta"
+   - "Built with SimpleK (Sigma Delta)"
+   - "Kanban board by Sigma Delta"
+
+   Or similar wording that clearly credits Sigma Delta.
+
+2. MARKETING AND REFERENCE RIGHTS
+
+   By using the Software, you grant Sigma Delta permission to:
+   - Reference your application, product, or service name
+   - Display your application's name and/or logo
+   - Mention your use of the Software
+
+   On Sigma Delta's website, marketing materials, documentation, and promotional
+   content for the purpose of showcasing users of the Software. This permission
+   is non-exclusive and royalty-free.
+
+   If you wish to opt out of this marketing permission, you must notify
+   Sigma Delta in writing prior to your first public release using the Software.
+
+3. LICENSE NOTICE
+
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
